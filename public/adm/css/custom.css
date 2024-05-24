@@ -1,0 +1,45 @@
+.template-demo2 {
+    border-bottom: 2px solid #b2945e;
+    padding: 0.5rem 0 0;
+    margin-bottom: 10px;
+}
+
+.form-check-input-reverse{
+    margin-left: 10px;
+    display: inline;
+}   
+
+.form-check .form-check-label {
+    display: inline-block;
+}
+
+.big-checkbox {width: 2rem; height: 2rem;top:0.5rem;}
+
+.error {
+    color: red;
+    font-style: italic;
+    font-size: 15px;
+  }
+  
+  label.error {
+    color: red;
+    font-style: italic;
+    font-size: 13px;
+  }
+
+  .uper {
+    text-transform: uppercase;
+  }
+  
+  .myDisabled {
+    background: #eee;
+    cursor: not-allowed;
+  }
+  
+  .oblogatorio {
+    color: red;
+    font-size: 20px;
+    padding-right: 5px;
+    font-style: italic;
+    padding-top:15px;
+  }
